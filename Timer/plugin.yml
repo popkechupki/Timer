@@ -1,0 +1,10 @@
+name: Timer
+main: popkechupki\Timer
+version: 0.1
+api: 2.0.0
+load: POSTWORLD
+author: popkechupki
+description: "サーバーにタイマーの機能を追加するプラグイン。"
+commands:
+ timer:
+  description: "タイマープラグインのインフォメーションを表示します。"
